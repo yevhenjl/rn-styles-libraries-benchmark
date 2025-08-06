@@ -55,7 +55,6 @@ Libraries that offer more complex features and a different developer experience,
 
 ## Credits
 
-*   **This Benchmark:** Updated and executed by you.
 *   **Original Benchmark Repo:** [divineniiquaye/react-native-style-libraries-benchmark](https://github.com/divineniiquaye/react-native-style-libraries-benchmark)
 *   **Original Reproducer:** [@tj-mc/styled-components-native-perf-reproducer](https://github.com/tj-mc/styled-components-native-perf-reproducer)
 
